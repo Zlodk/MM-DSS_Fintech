@@ -1,2 +1,2 @@
 # MM-DSS_Fintech
-MM&amp;DSS repo for labs
+Ulanov Artemy, J4211
